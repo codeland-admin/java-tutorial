@@ -1,4 +1,4 @@
-package com.baeldung.webrtc;
+package com.openmln.webrtc;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.socket.TextMessage;
